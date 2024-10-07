@@ -20,10 +20,10 @@ A **Lista de Tarefas** é um aplicativo web simples e eficaz que permite aos usu
 
 ## 🖼️ Imagens do Projeto
 ### Interface Principal
-![Interface Principal](./principal.png)
+![Interface Principal](./assets/principal.png)
 
 ### Tarefa Adicionada
-![Tarefa Adicionada](./principal2.png)
+![Tarefa Adicionada](./assets/principal2.png)
 
 ## 🤝 Como Contribuir
 1. Faça um fork deste repositório.
